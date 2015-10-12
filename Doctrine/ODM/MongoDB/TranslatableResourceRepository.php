@@ -17,7 +17,7 @@ use Sylius\Component\Translation\Provider\LocaleProviderInterface;
 use Sylius\Component\Translation\Repository\TranslatableResourceRepositoryInterface;
 
 /**
- * Doctrine ORM driver translatable entity repository.
+ * Doctrine ODM MongoDB driver translatable entity repository.
  *
  * @author Ivannis Suárez Jérez <ivannis.suarez@gmail.com>
  */
